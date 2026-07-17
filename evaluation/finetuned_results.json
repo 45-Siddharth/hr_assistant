@@ -1,0 +1,42 @@
+[
+    {
+        "question": "How many annual leave days do employees receive?",
+        "answer": "Employees receive 20 days of annual leave per year."
+    },
+    {
+        "question": "How many sick leave days are available?",
+        "answer": "Employees are entitled to 12 sick leave days per year. Unused sick leave days can be carried forward to the next year, up to a maximum accumulation of 30 days. If you need more information or assistance, please let me know."
+    },
+    {
+        "question": "Can employees work remotely?",
+        "answer": "Employees can work remotely only if they have received prior approval from their manager. Remote work is not permitted without explicit authorization."
+    },
+    {
+        "question": "Do employees need manager approval for leave?",
+        "answer": "Yes, employees need to get approval from their manager before taking leave. The leave request must be submitted through the HR portal, and the manager will review and approve or reject the request based on team schedules and workload."
+    },
+    {
+        "question": "How many leave days can be carried forward?",
+        "answer": "Employees can carry forward a maximum of 30 leave days to the next year. Any leave days beyond 30 will be forfeited."
+    },
+    {
+        "question": "Where should employees apply for leave?",
+        "answer": "Employees should apply for leave through the company's official leave management system or portal. If you need specific instructions or access details, please contact the HR department."
+    },
+    {
+        "question": "Does the company allow work from home?",
+        "answer": "Vaayu Enterprise supports work from home arrangements on a case-by-case basis. Employees should discuss with their manager to determine if their role and current projects are suitable for remote work. Approval from the manager and HR is required before working from home. The company expects employees working remotely to maintain productivity and communication standards. Please consult your manager or HR for specific guidance."
+    },
+    {
+        "question": "How many vacation days are provided?",
+        "answer": "Employees are entitled to 15 vacation days per year."
+    },
+    {
+        "question": "What is the maternity leave policy?",
+        "answer": "Maternity leave is available for 26 weeks. It can be availed starting 8 weeks before the expected delivery date. The leave can be extended up to 12 weeks in case of medical complications. During maternity leave, employees receive full salary and benefits. To apply, submit a maternity leave request along with a medical certificate confirming the expected delivery date. If you need assistance with the application process, please let me know."
+    },
+    {
+        "question": "Explain the leave approval process.",
+        "answer": "The leave approval process at Vaayu Enterprise is as follows:\n\n1. Employee submits a leave request through the HR portal or directly to their manager.\n2. The manager reviews the leave request considering workload and team schedules.\n3. The manager approves or rejects the leave request.\n4. If approved, HR updates the employee's leave records accordingly.\n5. The employee is notified of the decision.\n\nPlease ensure to submit leave requests well in advance to facilitate smooth approval. Let me know if you need details on specific leave types or durations."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "question": "How many annual leave days do employees receive?",
+        "answer": "I don\u2019t have enough context to answer that accurately.\n\nAnnual leave entitlements depend on:\n- Country (labor laws differ)\n- Industry and employment contract\n- Company policy\n- Whether the employee is full-time, part-time, or casual\n- Length of service (some employers increase leave with tenure)\n\nExamples:\n- Many EU countries: at least 20 working days per year by law (often more in practice).\n- UK: 28 days including public holidays for full-time employees (statutory minimum).\n- Australia: 4 weeks per year for full-time employees (5 weeks for some shift workers).\n- US: No federal minimum; typical private-sector full-time employees get about 10\u201320 days, depending on employer.\n\nIf you tell me your country and type of employment (and if this is about a specific company), I can give a more precise answer."
+    },
+    {
+        "question": "How many sick leave days are available?",
+        "answer": "I don\u2019t have access to your employer\u2019s specific policies, so I can\u2019t see your exact sick leave balance.\n\nTo find out how many sick leave days you have available, check one of these:\n\n- Your employment contract or offer letter  \n- The employee handbook or HR policy documents  \n- Your company\u2019s HR/benefits portal or payroll system  \n- Ask HR or your manager directly\n\nIf you tell me your country/region and whether you\u2019re public or private sector, I can outline typical sick leave entitlements and how they\u2019re usually calculated."
+    },
+    {
+        "question": "Can employees work remotely?",
+        "answer": "Yes, employees can work remotely, but it depends on your company\u2019s policies and the nature of the role.\n\nCommon patterns:\n- **Fully remote roles:** Employees work from anywhere, with no requirement to come into an office.\n- **Hybrid roles:** Employees split time between home and office (e.g., 2\u20133 days in office).\n- **On-site roles:** Some positions (e.g., certain operations, lab work, in-person services) must be done on location.\n\nIf you\u2019re asking about your own situation, you\u2019ll need to check:\n1. Your employment contract or offer letter  \n2. The company\u2019s remote-work or flexible-work policy  \n3. Local labor laws or regulations (in some regions, remote work has specific rules)  \n4. Your manager or HR, who can confirm what\u2019s allowed for your role and location  \n\nIf you tell me your country/industry or share any existing policy text, I can help interpret what\u2019s permitted."
+    },
+    {
+        "question": "Do employees need manager approval for leave?",
+        "answer": "Yes, in most organizations employees do need manager approval for leave.\n\nTypically:\n- You submit a leave request (through HR system, email, or form).\n- Your manager reviews it to ensure coverage and alignment with team priorities.\n- The manager approves or denies the request, sometimes with HR or higher-level approval for longer or special types of leave (e.g., unpaid leave, sabbaticals).\n\nThe exact rule depends on your company\u2019s leave policy. If you share your company\u2019s name or policy text, I can give a more specific answer."
+    },
+    {
+        "question": "How many leave days can be carried forward?",
+        "answer": "That depends entirely on the policy of your employer and your country\u2019s labor laws\u2014there\u2019s no universal number.\n\nTypical patterns:\n- Many companies allow **5\u201310 days** of annual leave to be carried forward.\n- Some allow **full carryover** but require you to use it within a set period (e.g., within 6\u201312 months).\n- Others have a **\u201cuse it or lose it\u201d** policy with **no carryover**.\n- In some countries, a minimum amount of annual leave must be preserved or paid out and cannot simply be lost.\n\nTo give you a precise answer, I\u2019d need:\n- Your country/region, and  \n- Whether you\u2019re asking about a specific employer or a general legal rule.\n\nIf you can share that, I can summarize the rules that apply to you."
+    },
+    {
+        "question": "Where should employees apply for leave?",
+        "answer": "Employees should apply for leave through your organization\u2019s designated process, which is typically one of the following:\n\n1. **HR/Leave Management System**  \n   - Many companies use tools like Workday, SAP SuccessFactors, BambooHR, etc.  \n   - Employees log in, submit a leave request, and it routes to their manager for approval.\n\n2. **Internal Portal or Intranet**  \n   - Some organizations have a custom internal site or form (e.g., \u201cLeave Request\u201d on the company intranet).\n\n3. **Directly via Manager and HR**  \n   - In smaller organizations, employees may email or message their manager and HR with dates and type of leave.\n\nIf you\u2019re setting policy, specify clearly in your handbook, e.g.:  \n> \u201cAll leave requests must be submitted via [system/portal name] at least X days in advance and approved by the employee\u2019s line manager.\u201d\n\nIf you tell me your company\u2019s tools or size, I can suggest a more precise wording or process."
+    },
+    {
+        "question": "Does the company allow work from home?",
+        "answer": "I don\u2019t have access to your company\u2019s specific policies.  \n\nTo find out if your company allows work from home:\n- Check your employee handbook or HR portal.\n- Ask your manager or HR representative directly.\n- Look for any remote/hybrid work policy or recent company-wide emails about flexible work arrangements.\n\nIf you tell me the company name or share any policy text you have, I can help interpret what\u2019s allowed."
+    },
+    {
+        "question": "How many vacation days are provided?",
+        "answer": "I don\u2019t have any context about your employer, country, or the policy you\u2019re asking about, so I can\u2019t give a specific number.\n\nIf you\u2019re asking about:\n- **A particular company**: Check your employment contract, employee handbook, or HR portal, or tell me the company and country and I can describe typical ranges.\n- **A country\u2019s legal minimum**: Tell me which country, and I can give the statutory minimum vacation days.\n- **A specific job offer**: Paste the relevant part of the offer or policy, and I can interpret it for you."
+    },
+    {
+        "question": "What is the maternity leave policy?",
+        "answer": "I don\u2019t have enough context to give you the exact policy yet.\n\nMaternity leave rules depend on:\n- Country (laws differ widely)\n- State/province (in some countries)\n- Employer (company policies, union contracts)\n- Your employment type (full-time, part-time, contract, etc.)\n\nIf you tell me:\n- What country (and state/province, if applicable) you\u2019re in\n- Whether you\u2019re asking about a specific employer (e.g., \u201cAmazon US corporate\u201d or \u201cUK NHS\u201d) or just the legal minimum\n\nI can outline:\n- How much leave you\u2019re entitled to\n- Whether it\u2019s paid or unpaid\n- How pay is calculated\n- Eligibility requirements\n- How and when you need to apply or notify your employer."
+    },
+    {
+        "question": "Explain the leave approval process.",
+        "answer": "Here\u2019s a clear, generic outline of a typical leave approval process. Details can vary by company, but most follow these steps:\n\n1. **Check eligibility and policy**  \n   - Review your company\u2019s leave policy (annual leave, sick leave, unpaid leave, etc.).  \n   - Confirm you have enough leave balance and whether any blackout dates or notice periods apply.\n\n2. **Discuss with your manager (if required)**  \n   - For planned leave, many companies expect an informal discussion first.  \n   - Agree on approximate dates and duration, and consider workload, deadlines, and team coverage.\n\n3. **Submit a formal request**  \n   - Use the official system: HR portal, leave management tool, or a standard form/email.  \n   - Include: type of leave, start/end dates, total days, reason (if required), and any handover notes.\n\n4. **Manager review and decision**  \n   - Your manager checks team schedules, project impact, and policy compliance.  \n   - They may ask for adjustments (different dates, shorter duration) if there are conflicts.  \n   - Manager approves or rejects in the system or via email.\n\n5. **HR/Payroll verification"
+    }
+]

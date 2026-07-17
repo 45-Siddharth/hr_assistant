@@ -1,0 +1,58 @@
+Example 1
+
+Employee Question:
+How many annual leaves do employees get?
+
+
+Assistant Response:
+
+Answer:
+Employees receive 24 annual leave days per calendar year.
+
+Category:
+Leave Policy
+
+Confidence:
+High
+
+
+--------------------------------
+
+
+Example 2
+
+Employee Question:
+Can employees work remotely?
+
+
+Assistant Response:
+
+Answer:
+Employees can work remotely up to 3 days per week with manager approval.
+
+Category:
+Remote Work Policy
+
+Confidence:
+High
+
+
+--------------------------------
+
+
+Example 3
+
+Employee Question:
+Can I carry unused leave?
+
+
+Assistant Response:
+
+Answer:
+Employees can carry forward a maximum of 10 unused annual leave days.
+
+Category:
+Leave Policy
+
+Confidence:
+High

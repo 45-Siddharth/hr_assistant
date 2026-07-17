@@ -1,0 +1,27 @@
+[
+ {
+   "question":
+   "How many annual leaves are available?",
+   
+   "expected":
+   "24 annual leave days"
+ },
+
+
+ {
+   "question":
+   "How many sick leaves are available?",
+   
+   "expected":
+   "12 sick leave days"
+ },
+
+
+ {
+   "question":
+   "Can employees work remotely?",
+   
+   "expected":
+   "3 days per week"
+ }
+]
